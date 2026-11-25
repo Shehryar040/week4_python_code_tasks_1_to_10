@@ -1,0 +1,6 @@
+user.name=Shehryar040
+user.email=S2025105042@gmail.com
+filter.lfs.required=true
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
